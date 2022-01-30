@@ -1,4 +1,18 @@
-# log4jminecraft
+# log4j cve
+Для кого-то взлом майнкрафт, для когото взлом без слова майнкрафт =)
+Этот код не для PRODUCTION. 
+Автор не несёт ответственности за любые ваши действия. 
+Вы можете наворотить дел, если не понимаете что делаете. Это во многих странах приравнивается к административной или 
+уголовной ответственности
+
+Требования:
+* kali linux / https://www.linode.com/
+* brain
+* reverse shell Maxet24
+* https://raikia.com/tool-powershell-encoder/
+* Вместо 10.10.10.10 пишите адрес хакерской машины, а 80 меняете на 9898.
+
+Source/Источник:
 This code *DOES NOT* promote or encourage any illegal activities!
 The content in this document is provided solely for educational purposes and to create awareness!
 
